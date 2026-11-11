@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
