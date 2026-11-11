@@ -23,10 +23,8 @@ class ParkingSystem {
             return true;
 
         }
-        else{
             return false;
-            
-        }
+
         
     }
 }
