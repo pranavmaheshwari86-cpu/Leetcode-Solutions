@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1603-design-parking-system) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
