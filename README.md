@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Design
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1603-design-parking-system) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -61,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
