@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
@@ -60,9 +63,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
