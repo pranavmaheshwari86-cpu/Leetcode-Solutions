@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
