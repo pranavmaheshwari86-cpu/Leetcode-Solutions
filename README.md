@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
