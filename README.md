@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
