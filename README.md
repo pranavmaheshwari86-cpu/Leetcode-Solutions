@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0622-design-circular-queue](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pranavmaheshwari86-cpu/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
